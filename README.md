@@ -1,5 +1,3 @@
-# README
-
 ## Overview
 
 This project provides a Python implementation of a `Polygon` class and a `Polygons` iterable class. The `Polygon` class represents a regular polygon with a specified number of vertices and a circumradius, while the `Polygons` class generates a sequence of polygons starting from a triangle (3 sides) up to a polygon with a specified maximum number of sides. The `PolygonsIterator` class is also included to enable iteration over the sequence of polygons.
